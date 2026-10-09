@@ -13,3 +13,6 @@ Here are a couple of notes i took:
 That's pretty neat, I've made light
 <img width="200" alt="IMG_2066" src="https://github.com/user-attachments/assets/4b5bb394-760d-4bf7-96bb-5429fb9cf6e0" />
 <img width="200" alt="IMG_2065" src="https://github.com/user-attachments/assets/abcdf9c5-c914-4daa-9aa8-d805bbd5fc76" />
+
+the actual circuit is stupidly simple, one 9v battery, an MB102 power module and a blue LED.
+I learned that polarity sorta matters a lot, and i know how a breadboard works, **hooray** !
