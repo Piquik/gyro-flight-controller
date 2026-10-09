@@ -8,4 +8,8 @@ Here are a couple of notes i took:
 
 <img width="400" alt="Notes" src="https://github.com/user-attachments/assets/685f012e-f994-4db8-9175-47dc557cc9b0" />
 
+### log 1, let there be LEDs
 
+That's pretty neat, I've made light
+<img width="200" alt="IMG_2066" src="https://github.com/user-attachments/assets/4b5bb394-760d-4bf7-96bb-5429fb9cf6e0" />
+<img width="200" alt="IMG_2065" src="https://github.com/user-attachments/assets/abcdf9c5-c914-4daa-9aa8-d805bbd5fc76" />
