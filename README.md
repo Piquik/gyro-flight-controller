@@ -20,7 +20,7 @@ I learned that polarity sorta matters a lot, and i know how a breadboard works, 
 ### log 2, wooo hoooo motion !
 
 Yay ! I made a motion sensor ! I mean I didn't make it, that was probably done from some assembly line in China, but i made it work ! i used an HC-SR501 module, basically just 
-a fancy word for an infrared motion detector, which i plugged into an arduino Uno, call me Ironman.
+a fancy word for an infrared motion detector, which i plugged into an arduino Uno, call me **Ironman**.
 
 <img width="400" alt="IMG_2069" src="https://github.com/user-attachments/assets/f8b14829-c550-4c29-9676-5c60be109f29" />
 
@@ -30,7 +30,7 @@ a fancy word for an infrared motion detector, which i plugged into an arduino Un
 </div>
 
 
-Turns out even Ironman has to comply to the github 10 MB limit
+Turns out even Ironman has to comply to the github 10 MB limit.
 
 
 Here's the code I used in the IDE:
